@@ -8,3 +8,13 @@ C:\Users\이광수\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Wind
 C:\Users\이광수\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\이광수\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\이광수\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\01.시스템운영팀\10.교육자료\CsharpStudy\이광수\Lap1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\01.시스템운영팀\10.교육자료\CsharpStudy\이광수\Lap1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\01.시스템운영팀\10.교육자료\CsharpStudy\이광수\Lap1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\01.시스템운영팀\10.교육자료\CsharpStudy\이광수\Lap1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+Z:\01.시스템운영팀\10.교육자료\CsharpStudy\이광수\Lap1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Z:\01.시스템운영팀\10.교육자료\CsharpStudy\이광수\Lap1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\01.시스템운영팀\10.교육자료\CsharpStudy\이광수\Lap1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\01.시스템운영팀\10.교육자료\CsharpStudy\이광수\Lap1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\01.시스템운영팀\10.교육자료\CsharpStudy\이광수\Lap1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\01.시스템운영팀\10.교육자료\CsharpStudy\이광수\Lap1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

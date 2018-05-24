@@ -44,7 +44,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
             // 
-            // plainLabel
+            // lbPlain01
             // 
             this.lbPlain01.AutoSize = true;
             this.lbPlain01.Location = new System.Drawing.Point(26, 26);
@@ -53,15 +53,15 @@
             this.lbPlain01.TabIndex = 0;
             this.lbPlain01.Text = "평 문";
             // 
-            // plainTextBox
+            // txtPlain01
             // 
-            this.txtPlain01.Location = new System.Drawing.Point(65, 23);
+            this.txtPlain01.Location = new System.Drawing.Point(65, 26);
             this.txtPlain01.Multiline = true;
             this.txtPlain01.Name = "txtPlain01";
             this.txtPlain01.Size = new System.Drawing.Size(474, 64);
             this.txtPlain01.TabIndex = 1;
             // 
-            // shiftLabel
+            // lbShift01
             // 
             this.lbShift01.AutoSize = true;
             this.lbShift01.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
@@ -78,7 +78,7 @@
             this.updownImageList.Images.SetKeyName(0, "Down.png");
             this.updownImageList.Images.SetKeyName(1, "Up.png");
             // 
-            // encryptButton
+            // btnEncrypt01
             // 
             this.btnEncrypt01.ImageIndex = 0;
             this.btnEncrypt01.ImageList = this.updownImageList;
@@ -89,7 +89,7 @@
             this.btnEncrypt01.UseVisualStyleBackColor = true;
             this.btnEncrypt01.Click += new System.EventHandler(this.btnEncrypt01_Click);
             // 
-            // decryptButton
+            // btnDecrypt01
             // 
             this.btnDecrypt01.ImageIndex = 1;
             this.btnDecrypt01.ImageList = this.updownImageList;
@@ -110,7 +110,7 @@
             this.numericUpDown1.TabIndex = 5;
             this.numericUpDown1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
-            // decryptLabel
+            // lbDecrypt01
             // 
             this.lbDecrypt01.AutoSize = true;
             this.lbDecrypt01.Location = new System.Drawing.Point(20, 189);
@@ -119,7 +119,7 @@
             this.lbDecrypt01.TabIndex = 6;
             this.lbDecrypt01.Text = "암호문";
             // 
-            // decryptTextBox
+            // txtDecrypt01
             // 
             this.txtDecrypt01.Location = new System.Drawing.Point(65, 189);
             this.txtDecrypt01.Multiline = true;
@@ -127,7 +127,7 @@
             this.txtDecrypt01.Size = new System.Drawing.Size(474, 64);
             this.txtDecrypt01.TabIndex = 7;
             // 
-            // resetButton
+            // btnReset01
             // 
             this.btnReset01.Location = new System.Drawing.Point(28, 273);
             this.btnReset01.Name = "btnReset01";
@@ -137,7 +137,7 @@
             this.btnReset01.UseVisualStyleBackColor = true;
             this.btnReset01.Click += new System.EventHandler(this.btnReset01_Click);
             // 
-            // exitButton
+            // btnExit01
             // 
             this.btnExit01.Location = new System.Drawing.Point(458, 273);
             this.btnExit01.Name = "btnExit01";
